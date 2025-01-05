@@ -1,3 +1,9 @@
-/app/src/static/
+/app/static/
+
+/venv/
+
 
 /app/src/ui_files/
+
+__pycache__/
+
