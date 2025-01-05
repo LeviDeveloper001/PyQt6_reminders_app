@@ -1,5 +1,3 @@
-tests
+/app/src/static/
 
-static
-
-ui_files
+/app/src/ui_files/
